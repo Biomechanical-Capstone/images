@@ -1,1 +1,1 @@
-"# images" 
+The current version of (Fiji) Is Just ImageJ has an issue with Java 8 on Windows 7 and up, potentially more. This issue causes a failure with OpenGL pipe when attempting to run the 3D Viewer package.  An alternative launcher is available to rememdy this situation.  I do not recall the link to download this, but the exe is available.  Just ask on Slack.  There are some obtuse methods to render the stack as a 3D models within Fiji as well, but I would recommend launching with the compatible .exe.
